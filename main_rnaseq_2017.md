@@ -31,13 +31,11 @@ If you have questions or comments, visit the workshop [Q&A forum](https://noteap
 
   *<font color="#827e9c">Ann Meyer</font>* 
 
-[Lecture](https://bioinformatics.ca/rnaseq-2017-mod0)  
-
 ## Introduction to Cloud Computing
 
 *<font color="#827e9c">Obi Griffith</font>* 
 
-[Lecture](https://bioinformatics.ca/rnaseq-2017-modcc)
+[Lecture](https://drive.google.com/a/bioinformatics.ca/file/d/1NqaTiE9BUN-gJfFGNdEQwb4iAGpc-fwU/view?usp=sharing)
 
 * We have set up 30 instances on the Amazon cloud - one for each student. In order to log in to your instance, you will need a security certificate. If you plan on using Linux or Mac OS X, please download [this certificate](http://cbwmain.dyndns.info/private/CBWNY.pem). Otherwise if you plan on using Windows (with Putty), please download [this certificate](http://cbwmain.dyndns.info/private/CBWNY.ppk).
 
@@ -47,11 +45,13 @@ If you have questions or comments, visit the workshop [Q&A forum](https://noteap
 
 *<font color="#827e9c">Malachi Griffith</font>* 
 
-[Lecture](https://bioinformatics.ca/rnaseq-2017-mod1)
+[Lecture](https://drive.google.com/a/bioinformatics.ca/file/d/1292s3Yk6RwFv9h9J-E1oZ3JkXrBELJAQ/view?usp=sharing)   
+
+[Recording](https://youtu.be/QNd5wkozSJ0) 
 
 ### Lab Practical
 
-[Lab practical](https://bioinformatics.ca/rnaseq-2017-mod1b)
+[Lab practical](https://drive.google.com/a/bioinformatics.ca/file/d/1Yqqw2PNbeXohIRTpscOdW-MOrgefAVih/view?usp=sharing)
 
   [Installation](https://github.com/griffithlab/rnaseq_tutorial/wiki/Installation)
   
@@ -70,11 +70,13 @@ If you have questions or comments, visit the workshop [Q&A forum](https://noteap
 
 *<font color="#827e9c">Fouad Yousif</font>* 
 
-[Lecture](https://bioinformatics.ca/rnaseq-2017-mod2)
+[Lecture](https://drive.google.com/a/bioinformatics.ca/file/d/1p1AF8rBG5P-mdAvMeNdafcM-CuJOsU6h/view?usp=sharing)
+
+[Recording](https://youtu.be/OXNyePmOxg0)  
 
 ### Lab Practical
 
-[Lab Practical](https://bioinformatics.ca/rnaseq-2017-mod2b)
+[Lab Practical](https://drive.google.com/a/bioinformatics.ca/file/d/1IXx3mkbb_0tr3-pQKhQKbZGfpPAdnq1J/view?usp=sharing)
 
   [Adapter Trim](https://github.com/griffithlab/rnaseq_tutorial/wiki/Adapter-Trim)
   
@@ -105,11 +107,13 @@ Paper: [Recurrent chimeric RNAs enriched in human prostate cancer identified by 
 
 *<font color="#827e9c">Obi Griffith</font>* 
 
-[Lecture](https://bioinformatics.ca/rnaseq-2017-mod3)
+[Lecture](https://drive.google.com/a/bioinformatics.ca/file/d/1gVNKzircHvYk4nAcfTnS-Evk2JROEcgu/view?usp=sharing)  
+
+[Recording](https://youtu.be/GG25qg-L2Sg)  
 
 ### Lab Practical
 
-[Lab Practical](https://bioinformatics.ca/rnaseq-2017-mod3b)
+[Lab Practical](https://drive.google.com/a/bioinformatics.ca/file/d/13o0REXy8aoR-tdiYA8c79ctWEqdcq9Mt/view?usp=sharing)
 
  [Expression](https://github.com/griffithlab/rnaseq_tutorial/wiki/Expression)
  
@@ -127,11 +131,13 @@ Paper: [Recurrent chimeric RNAs enriched in human prostate cancer identified by 
 
 *<font color="#827e9c">Malachi Griffith</font>* 
 
-[Lecture](https://bioinformatics.ca/rnaseq-2017-mod5)
+[Lecture](https://drive.google.com/a/bioinformatics.ca/file/d/1iEKC8CDJ_XoNCTsuBYIOzDAJmk9n-9Gn/view?usp=sharing)  
+
+[Recording](https://youtu.be/Whkja-BN_kk)
 
 ### Lab Practical
 
-[Lab Practical](https://bioinformatics.ca/rnaseq-2017-mod5b)
+[Lab Practical](https://drive.google.com/a/bioinformatics.ca/file/d/1qRwE8vE1f9rlmZvmE1L6UIY8XXQWZtef/view?usp=sharing)
 
   [Ref Guided](https://github.com/griffithlab/rnaseq_tutorial/wiki/Reference-Guided-Transcript-Assembly)
   
@@ -161,7 +167,9 @@ For additional resources, tutorials, future directions, and more please refer to
 
 *<font color="#827e9c">Brian Haas</font>* 
 
-[Lecture](https://bioinformatics.ca/rnaseq-2017-mod6)  
+[Lecture](https://drive.google.com/a/bioinformatics.ca/file/d/1Frf2jdMFNxvDExQW0leZZvJpN8rc4CU2/view?usp=sharing)  
+
+[Recording](https://youtu.be/NLzqvRo2qZs)  
 
 [Bandage](https://rrwick.github.io/Bandage/)  
 
@@ -172,7 +180,9 @@ For additional resources, tutorials, future directions, and more please refer to
 
 *<font color="#827e9c">Brian Haas</font>* 
 
-[Lecture](https://bioinformatics.ca/rnaseq-2017-mod7)  
+[Lecture](https://drive.google.com/a/bioinformatics.ca/file/d/1w16RZsxi-cxJqAvcmFQBq3M__5BT58u9/view?usp=sharing)  
+
+[Recording](https://youtu.be/gsKmSjoWjH4)  
 
 [Lab practical](https://bioinformaticsdotca.github.io/rnaseq_2017_tutorial7)  
 
