@@ -6,6 +6,7 @@ header1: Workshop Pages for Students
 header2: Informatics for RNA-Seq Analysis
 image: /site_images/CBW_RNA_seq_icon.jpg
 keywords: sequencing Rna libraries, align data to a reference genome, perform differential expression analysis
+description: Course covers the bioinformatics tools available for RNA-seq data analysis and de novo assembly of transcripts. 
 instructors: Obi Griffith, Malachi Griffith, Fouad Yousif, Brian Haas 
 length: 3 days
 ---
