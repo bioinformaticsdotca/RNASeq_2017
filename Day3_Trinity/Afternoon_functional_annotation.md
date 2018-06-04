@@ -6,6 +6,9 @@ header1: Workshop Pages for Students
 header2: Informatics for RNA-Seq Analysis
 image: /site_images/CBW_RNA_seq_icon.jpg
 home: https://bioinformaticsdotca.github.io/rnaseq_2017
+description: Functional Annotation of Assembled Transcripts Using Trinotate
+author: Brian Haas
+modified: July 12th 2017
 ---
 
 
